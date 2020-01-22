@@ -1,0 +1,1 @@
+This project is meant to display basic HTML and CSS concepts. By recreating an example of the Google homepage, I will feel like I have certain concepts down.
